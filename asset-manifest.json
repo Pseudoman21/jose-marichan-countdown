@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Pseudoman21/jose-marichan-countdown/static/css/main.1cae4528.css",
-    "main.js": "/Pseudoman21/jose-marichan-countdown/static/js/main.ca54b69f.js",
-    "static/js/787.02abcb63.chunk.js": "/Pseudoman21/jose-marichan-countdown/static/js/787.02abcb63.chunk.js",
-    "static/media/jose-marichan.png": "/Pseudoman21/jose-marichan-countdown/static/media/jose-marichan.1de7341ea2cccf111ed5.png",
-    "static/media/bg.jpg": "/Pseudoman21/jose-marichan-countdown/static/media/bg.ee63a01d9dc070da731a.jpg",
-    "index.html": "/Pseudoman21/jose-marichan-countdown/index.html",
-    "main.1cae4528.css.map": "/Pseudoman21/jose-marichan-countdown/static/css/main.1cae4528.css.map",
-    "main.ca54b69f.js.map": "/Pseudoman21/jose-marichan-countdown/static/js/main.ca54b69f.js.map",
-    "787.02abcb63.chunk.js.map": "/Pseudoman21/jose-marichan-countdown/static/js/787.02abcb63.chunk.js.map"
+    "main.css": "/jose-marichan-countdown/static/css/main.ad53d9ff.css",
+    "main.js": "/jose-marichan-countdown/static/js/main.5cde8646.js",
+    "static/js/787.02abcb63.chunk.js": "/jose-marichan-countdown/static/js/787.02abcb63.chunk.js",
+    "static/media/jose-marichan.png": "/jose-marichan-countdown/static/media/jose-marichan.1de7341ea2cccf111ed5.png",
+    "static/media/bg.jpg": "/jose-marichan-countdown/static/media/bg.ee63a01d9dc070da731a.jpg",
+    "index.html": "/jose-marichan-countdown/index.html",
+    "main.ad53d9ff.css.map": "/jose-marichan-countdown/static/css/main.ad53d9ff.css.map",
+    "main.5cde8646.js.map": "/jose-marichan-countdown/static/js/main.5cde8646.js.map",
+    "787.02abcb63.chunk.js.map": "/jose-marichan-countdown/static/js/787.02abcb63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cae4528.css",
-    "static/js/main.ca54b69f.js"
+    "static/css/main.ad53d9ff.css",
+    "static/js/main.5cde8646.js"
   ]
 }
