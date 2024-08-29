@@ -4,7 +4,7 @@ import Clock from './Clock'
 class App extends Component {
   constructor (props) {
     super(props)
-    this.state = { deadline: 'September, 1, 2022' }
+    this.state = { deadline: 'September, 1, 2024' }
   }
   render () {
     return (
