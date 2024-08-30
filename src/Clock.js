@@ -47,7 +47,7 @@ class Clock extends Component {
       return (
         <div>
           <div className='Clock-days'>
-            {this.leading0(this.state.days)} Days
+            {this.leading0(this.state.days)} Day{this.state.days === 1 ? '': 's'}
           </div>
           <div className='Clock-hours'>
             {this.leading0(this.state.hours)}:
